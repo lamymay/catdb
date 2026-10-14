@@ -12,6 +12,10 @@ CatDB 是一款运行在你本地电脑上的数据库客户端。我们重视�
 - **无统计和广告**：CatDB 不包含任何数据统计、遥测、广告或第三方跟踪组件。
 - **删除数据**：卸载 CatDB，并删除本机用户目录里的 CatDB 配置文件夹，就能清除所有本地数据。
 
+### 密码处理
+
+关于 CatDB 如何处理数据库密码（当前行为与计划中的功能），请参阅 [密码处理说明](PASSWORD.md)（https://github.com/lamymay/catdb/blob/main/PASSWORD.md）。
+
 如果你对本政策有任何疑问，请在 [GitHub 仓库](https://github.com/lamymay/catdb/issues) 提交 issue 联系我们。
 
 ## English
@@ -23,5 +27,9 @@ CatDB is a database client that runs locally on your computer.
 - **Local storage**: Connection settings (host, port, user name, and any password you choose to save), UI preferences, and logs are stored only in your local user profile and are never uploaded.
 - **No analytics or ads**: CatDB contains no analytics, telemetry, advertising, or third-party tracking.
 - **Deleting your data**: Uninstall CatDB and delete the CatDB settings folder in your user profile to remove all local data.
+
+### Password handling
+
+For how CatDB handles database passwords (current behavior and planned features), see [Password Handling](PASSWORD.md) (https://github.com/lamymay/catdb/blob/main/PASSWORD.md).
 
 If you have any questions about this policy, please open an issue on [GitHub](https://github.com/lamymay/catdb/issues).
